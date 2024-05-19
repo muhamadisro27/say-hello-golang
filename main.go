@@ -1,5 +1,5 @@
 package main
 
-func go_say_hello() {
+func SayHello() {
 	println("Hello, world!")
 }
